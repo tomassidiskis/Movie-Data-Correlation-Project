@@ -1,4 +1,4 @@
-Movie data correlation in Python.
+Movie Data Correlation in Python.
 
 Libraries used:
 * Pandas
